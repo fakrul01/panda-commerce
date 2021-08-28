@@ -1,2 +1,2 @@
 # panda-commerce
-[Live Site](https://newmac-book-pro.netlify.app/) 
+[Live Site](https://panda-new-testsites.netlify.app/) 
